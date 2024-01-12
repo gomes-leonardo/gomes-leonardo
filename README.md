@@ -29,6 +29,6 @@ I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
 
 Explore my portfolio to see my latest projects and works.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GomesLeo-blue?style=for-the-badge&logo=google-chrome)](https://gomesleo-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://gomesleo-portfolio.vercel.app/)
 
 Feel free to reach out! Let's connect and collaborate.
