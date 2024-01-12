@@ -19,7 +19,7 @@ I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
 
 ## 📈 GitHub Stats
 
-[![gomes-leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
+[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
 
 ## 🤝 Connect with Me
 
