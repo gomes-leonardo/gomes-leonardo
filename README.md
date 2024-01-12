@@ -15,22 +15,20 @@ I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
 - TypeScript
 - React.js
 - Next.js
-- ]
 
 ## 📈 GitHub Stats
 
-[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gomes-leonardo&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/gomes-leonardo)
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-gomes-leonardo-blue?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/Leo](https://www.linkedin.com/in/gomess-leonardo/))
+[![GitHub](https://img.shields.io/badge/GitHub-gomes--leonardo-blue?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gomess-leonardo/)
 
 ## 🌐 Portfolio
 
 Explore my portfolio to see my latest projects and works.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-blue?style=for-the-badge&logo=google-chrome)]([https://www.your-portfolio-website.com](https://gomesleo-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-GomesLeo-blue?style=for-the-badge&logo=google-chrome)](https://gomesleo-portfolio.vercel.app/)
 
 Feel free to reach out! Let's connect and collaborate.
-
