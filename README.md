@@ -19,12 +19,12 @@ I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
 
 ## 📈 GitHub Stats
 
-[![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
+[![gomes-leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YourName](https://www.linkedin.com/in/gomess-leonardo/))
+[![GitHub](https://img.shields.io/badge/GitHub-gomes-leonardo-blue?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/Leo](https://www.linkedin.com/in/gomess-leonardo/))
 
 ## 🌐 Portfolio
 
