@@ -23,8 +23,8 @@ I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourName)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YourName](https://www.linkedin.com/in/gomess-leonardo/))
 
 ## 🌐 Portfolio
 
