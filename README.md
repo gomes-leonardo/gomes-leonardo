@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Leo, a passionate Frontend Developer based in Brazil. 👨‍💻
+I'm Leo, a passionate Frontend Developer based in São Paulo, Brazil. 👨‍💻
 
 🚀 I'm currently focusing on:
 - TypeScript
