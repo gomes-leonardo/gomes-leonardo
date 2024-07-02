@@ -5,16 +5,16 @@ I'm Leo, a passionate Frontend Developer based in São Paulo, Brazil. 👨‍�
 🚀 I'm currently focusing on:
 - TypeScript
 - React
-- Next.js
+- Node.js
 
 🌱 I'm always learning and exploring new technologies to enhance my skills.
 
 ## 🛠️ Technologies & Tools
 
-- HTML, CSS, JavaScript
+- JavaScript
 - TypeScript
 - React.js
-- Next.js
+- Node.js
 
 ## 📈 GitHub Stats
 
