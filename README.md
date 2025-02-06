@@ -1,11 +1,12 @@
 # Hi there! 👋
 
-I'm Leo, a passionate Frontend Developer based in São Paulo, Brazil. 👨‍💻
+I'm Leo, a Fullstack Developer based in São Paulo, Brazil. 👨‍💻
 
 🚀 I'm currently focusing on:
 - TypeScript
 - React
 - Node.js
+- .NET
 
 🌱 I'm always learning and exploring new technologies to enhance my skills.
 
