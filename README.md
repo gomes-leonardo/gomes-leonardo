@@ -1,69 +1,53 @@
-# 👋 Hey there! I'm Leonardo Gomes
+# 👋 Hey, I'm Leonardo Gomes  
 
 ### 🌍 Fullstack Developer | TypeScript • React • Node.js • .NET  
-Based in São Paulo, Brazil — Open to remote opportunities worldwide 🌐
+📍 São Paulo, Brazil — Open to remote opportunities 🌐  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a passionate and results-driven Fullstack Developer with experience building scalable web applications and APIs using modern technologies. I thrive in dynamic, agile environments and love turning complex problems into elegant, performant solutions.
+Passionate Fullstack Developer with hands-on experience building **scalable web applications and APIs**. I enjoy solving complex problems with clean, performant solutions and thrive in **agile, multicultural, remote-first teams**.  
 
-- 💼 Currently working with **TypeScript**, **React**, **Node.js**, and **.NET**
-- 🧠 Constantly learning and exploring the latest in software engineering
-- 🌎 Comfortable working in multicultural and remote-first teams
-- 💬 Fluent in Portuguese | Professional proficiency in English
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-![.NET](https://img.shields.io/badge/-.NET-512bd4?style=flat-square&logo=dotnet)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+- 💻 Main stack: **TypeScript**, **React**, **Node.js**, **.NET**  
+- 📚 Always learning new technologies & best practices in software engineering  
+- 🌎 Fluent in Portuguese | Proficient in English  
 
 ---
 
-## 📈 GitHub Insights
+## 🛠️ Tech Stack  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gomes-leonardo&show_icons=true&hide=contribs&theme=radical)](https://github.com/gomes-leonardo)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-leonardo&layout=compact&theme=radical)](https://github.com/gomes-leonardo)
-
----
-
-## 🌐 Portfolio
-
-Take a look at my latest projects, case studies, and open source contributions:
-
-👉 **[gomesleo-portfolio.vercel.app](https://gomesleo-portfolio.vercel.app/)**
+**Frontend:** React, Next.js  
+**Backend:** Node.js, .NET  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps & Tools:** Docker, Git, Vercel  
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 GitHub Overview  
 
-I'm always open to networking, collaborations, or exciting job opportunities!
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gomes-leonardo&show_icons=true&theme=radical&hide_border=true)](https://github.com/gomes-leonardo)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-leonardo&layout=compact&theme=radical&hide_border=true)](https://github.com/gomes-leonardo)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)  
+---
+
+## 🔥 Daily Activity  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gomes-leonardo&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+---
+
+## 🌐 Portfolio  
+
+👉 [gomesleo-portfolio.vercel.app](https://gomesleo-portfolio.vercel.app/)  
+
+---
+
+## 🤝 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gomess-leonardo/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/gomes-leonardo)  
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_  
